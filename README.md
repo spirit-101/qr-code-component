@@ -4,11 +4,11 @@
 
 <hr>
 
-- [View the live site](https://spirit-101.github.io/qr-code-component/)
+🌐 [View the live site](https://spirit-101.github.io/qr-code-component/)
 
-- [Check out the solution](https://www.frontendmentor.io/solutions/qr-code-component-5Z7rbTmMzu)
+🧠 [Check out the solution](https://www.frontendmentor.io/solutions/qr-code-component-5Z7rbTmMzu)
 
-- [View the challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+📝 [View the challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ---
 
