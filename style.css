@@ -23,7 +23,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0, 0.3);
   padding: 1.2rem;
-  border-radius: 0.6rem;
+  border-radius: 2rem;
 }
 
 .heading {
@@ -44,7 +44,7 @@ img {
 }
 
 .qr-img {
-  border-radius: 0.6rem;
+  border-radius: 1rem;
   margin-bottom: 1.2rem;
 }
 
