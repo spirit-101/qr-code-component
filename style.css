@@ -20,9 +20,11 @@ body {
 }
 
 .container {
+  max-width: 320px;
   background-color: hsl(0, 0%, 100%);
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0, 0.3);
   padding: 1.2rem;
+  margin: 2rem;
   border-radius: 2rem;
 }
 
@@ -50,6 +52,6 @@ img {
 
 @media (min-width: 450px) {
   .container {
-    width: 350px;
+    max-width: 350px;
   }
 }
